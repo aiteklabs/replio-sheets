@@ -1,0 +1,4 @@
+{
+  "scriptId": "<your standalone Apps Script project id>",
+  "rootDir": "src"
+}
